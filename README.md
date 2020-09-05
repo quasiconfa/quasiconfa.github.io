@@ -1,1 +1,2 @@
-# quasiconfa.github.io
+# zradagroup.github.io
+Zrada — вебсайт спільноти
